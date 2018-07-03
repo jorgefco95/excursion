@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  font-family: verdana;
+  text-align: center;
+}
+
+.header-title {
+  color: white;
+  font-size: 50px;
+}
+
+a {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+#copyright {
+  color: gray;
+  text-align: right;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+#footer {
+  margin-top: 2%;
+}
